@@ -6,7 +6,7 @@
 - 🌠 Non-binary tako They/Them
 - 📚 IB High school student in Finland
 - 🌐 Linguist, anything about languages!
-- 🧑🏼‍💼 Admin at [Wu Wikipedia](wuu.wikipedia.org)
+- 🧑🏼‍💼 Admin at [Wu Wikipedia](https://wuu.wikipedia.org)
 - 🎨 Sometimes a graphic designer
 - 💊 Intanetto Obadosu
 - 💻 BTW I use Arch...on a [MacBook](https://github.com/AsahiLinux)

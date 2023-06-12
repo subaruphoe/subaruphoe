@@ -1,16 +1,14 @@
-### Hi there 👋
+# Here’s Subaru 🐙
+<a href="https://github.com/Subarupan?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=Subarupan&show_icons=true&theme=default" />
+</a>
 
-<!--
-**Subarupan/Subarupan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌠 Non-binary tako They/Them
+- 📚 IB High school student in Finland
+- 🌐 Linguist, anything about languages!
+- 🧑🏼‍💼 Admin at [Wu Wikipedia](wuu.wikipedia.org)
+- 🎨 Sometimes a graphic designer
+- 💊 Intanetto Obadosu
+- 💻 BTW I use Arch...on a [MacBook](https://github.com/AsahiLinux)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=linux,html,python,css,cpp,git,md,ps,ai,twitter)](https://skillicons.dev)

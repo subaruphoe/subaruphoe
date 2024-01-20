@@ -10,5 +10,5 @@
 - 🎨 Sometimes a graphic designer
 - 💊 Intanetto Obadosu
 - 💻 BTW I use Arch...on a [MacBook](https://github.com/AsahiLinux)
-
+- 🐟 光復吳越，時代革命 Kuàon-vóh Ŋ́-yóh, zý-dé kāh-mín
 [![My Skills](https://skillicons.dev/icons?i=linux,html,python,css,cpp,git,md,ps,ai,twitter)](https://skillicons.dev)

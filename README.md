@@ -1,6 +1,6 @@
 # Here’s Subaru 🐙
-<a href="https://github.com/Subarupan?tab=repositories" >
-  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=Subarupan&show_icons=true&theme=default" />
+<a href="https://github.com/Subaruphoe?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=subaruphoe&show_icons=true&theme=default" />
 </a>
 
 - 🌠 Non-binary tako They/Them

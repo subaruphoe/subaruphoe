@@ -4,5 +4,5 @@
 - A graphic designer, sometimes
 - Jew-ish ✡
 - 光復吳越，時代革命
-- 
+
 [![My Skills](https://skillicons.dev/icons?i=linux,html,python,css,cpp,git,md,ps,ai,twitter)](https://skillicons.dev)
